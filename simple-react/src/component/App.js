@@ -48,7 +48,7 @@ export function App() {
   return (
     <React.Fragment>
       <header>
-        <h1>{"Todo"}</h1>
+        <h1>{"My Todo List"}</h1>
       </header>
       <Form
         inputText={inputText}
