@@ -54,6 +54,7 @@ form button:hover {
 }
 
 .todo-list {
+  border-radius: 8px;
   border: solid #fb9b50;
   min-width: 30%;
   margin-bottom: 2rem;
@@ -62,6 +63,7 @@ form button:hover {
 
 
 .todo {
+  border-radius: 8px;
   margin: 0.5rem;
   background: #fff;
   color: #000000;
