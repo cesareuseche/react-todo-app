@@ -1,10 +1,10 @@
 # react-todo-app
 
-##### Download My Todo React app using git
+##### Clone My Todo React app using git
 
 ```
-$ git clone https://github.com/4GeeksAcademy/react-hello.git
-$ cd react-hello
+$ git clone https://github.com/cesareuseche/react-todo-app.git
+$ cd react-todo-app
 ```
 
 ##### and install the npm package:
